@@ -1,0 +1,5 @@
+*{box-sizing: border-box;}
+.mydiv{width: 50%; border-style: solid; border-width: 5px; height: 100vh; float: left;}
+#div1{border-color: blue; background-image:url(image2/twitter.png); background-size: 100% 100%;}
+#div2{border-color: red;}
+body{width: 100%;}
